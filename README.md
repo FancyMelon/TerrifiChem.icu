@@ -1,9 +1,11 @@
-# QDChemSL.icu
+# QDChem2020.icu
 始于QDHS 2020' Chem SL
 
 ## 写在前面
 
 这是一个来自于QDHS 2020届的化学SL自救指南，目前还在1.0版本。
+
+至于更不更HL部分看之后的反应（实际上是我的心情233）
 
 由于某位S姓教师的独特教学方法，我决定在Mid-Term之前整理一下我们目前所学的内容。（其余章节将会陆续更新）
 
@@ -22,7 +24,7 @@
 
 ## 关于版权
 
-编辑版权所有：Fancy Mao
+编辑版权所有：Fancy Mao，Anita Xiao
 
 Credit by: IB QuestionBank，Pearson Baccalaureate, Ms. Zhang's PPTs
 
