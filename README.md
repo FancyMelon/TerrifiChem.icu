@@ -1,4 +1,4 @@
-# QDChem2020.icu
+# TerrifiChem.icu
 始于QDHS 2020' Chem SL
 
 ## 写在前面
@@ -60,6 +60,8 @@ Ms. Zhang's PPTs
 
 ## 友情链接
 
+[非常强大的镜像第四代QuestionBank](https://paperarchive.space/Resources/IB/Questionbanks/4.%20Fourth%20Edition%20%28Online%29/)
+
 [IB RESOURCES REPOSITORY（民间版本非官方）](https://ibresources.github.io)
 
 [2016之前的FreeExamPaper](https://freeexampapers.com/exam-papers/IB/)
@@ -67,4 +69,5 @@ Ms. Zhang's PPTs
 [一个国外43分大佬的IBNotes网站ibling](https://iblingswe.wixsite.com/home?tdsourcetag=s_pctim_aiomsg)
 
 [一个很好的化学自学网站ChemLibreText](https://chem.libretexts.org/)
+
 
