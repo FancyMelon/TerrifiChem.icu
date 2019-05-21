@@ -1,6 +1,14 @@
 # TerrifiChem.icu
 始于QDHS 2020' Chem SL
 
+## 更新日志
+
+5/21/2019
+
+**4.4_Intermolecular Force** 已更
+
+**目前Topic 3 and Topic 4已经全部上传完毕**
+
 ## 写在前面
 
 这是一个来自于QDHS 2020届的化学SL自救指南，目前还在1.0版本。
@@ -60,7 +68,7 @@ Ms. Zhang's PPTs
 
 ## 友情链接
 
-[非常强大的镜像第四代QuestionBank](https://paperarchive.space/Resources/IB/Questionbanks/4.%20Fourth%20Edition%20%28Online%29/)
+[非常强大的镜像第四代QuestionBank](https://examsnap.io/IBQuestionBankV4/)
 
 [IB RESOURCES REPOSITORY（民间版本非官方）](https://ibresources.github.io)
 
