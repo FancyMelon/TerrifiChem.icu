@@ -1,63 +1,60 @@
 # TerrifiChem.icu
-始于QDHS 2020' Chem SL
+A study project for QDHS Chemistry students
 
-## 更新日志
+## Change Logs
 6/12/2019
 
-**Topic 3,4, and 10 QuestionBank第三代复习题** 已更
+**Topic 3,4, and 10 QuestionBankVer.3 Practice Qs** 
 
-【含部分HL题目】
+【Including some from HL contents】
 
 6/3/2019
 
-**Topic 4 ExamStyle Questions (押题宝)** 已更
+**Topic 4 ExamStyle Questions** 
 
 5/21/2019
 
-**4.4_Intermolecular Force** 已更
+**4.4_Intermolecular Force** 
 
-**目前Topic 3 and Topic 4已经全部上传完毕**
+**Topic 3 and 4 Completed**
 
-## 写在前面
+## Introduction
 
-这是一个来自于QDHS 2020届的化学SL自救指南，目前还在1.0版本。
+The Chemistry SL study guide is developed by the students from 2020'
 
-至于更不更HL部分看之后的反应（实际上是我的心情233）
+We may update HL contents if we've got extra time (and efforts)
 
-由于某位S姓教师的独特教学方法，我决定在Mid-Term之前整理一下我们目前所学的内容。（其余章节将会陆续更新）
+Because of our scarce learning resources in the classes (u know), I decided to pack up some practice Qs before mid-term.
 
-1.0的版本由于时间限制，主要的contents基本覆盖IB Chem SL教学大纲（Syllabus）与相关IB真题（QuestionBank3 and 4）
+As time is limited for ver 1.0, the contents mainly came from IB Chemistry Syllabus and QuestionBank Ver3 and 4.
 
-## 如何使用
+## User Guide
 
-出于对下载文件大小的考虑，内容将会以章节形式呈现在文件夹当中。
+In consideration of the size of these files, they will be arranged in the form of folders.
 
-### 使用方式1：不占内存不留一丝痕迹（线上浏览）
+### Method1：View online
 
-*推荐
+*Recommended
 
-可以直接点开预览PDF（鉴于学校网速会慢一点）
+### Method2：Download PDFs
 
-### 使用方式2：300KB的温存（下载一个PDF文件）
+*Some of the files might be modified and updated
 
-可以根据自身需要下载特定的章节
-*但部分文件内容会进行修改和更新
+## About Contributions
 
-## 关于贡献
-欢迎小伙伴来加入这个编辑工作！
+Please come and join us!
 
-**[目前急需整理topic10_Organic_Chemistry的小伙伴]
+It'll be accounted for a CAS Experience/Project. (!!!)
 
-这可能是一次愉快的CAS Experience/Project的经历。(悄咪咪)
+Contact Info: QQ/Wechat: 1362379735
 
-欢迎联系QQ/Wechat: 1362379735
+Email: fancymao.090302@gmail.com
 
 ![avatar](https://camo.githubusercontent.com/af66ed3ad2d9fd159b9f5fdc92ba0a1804cff642/68747470733a2f2f692e696d6775722e636f6d2f4766746846417a2e706e67)
-(疯狂暗示)
 
-## 关于版权
+## About Authorizations and Credits
 
-编辑版权所有（目前）：Fancy Mao，Anita Xiao
+Editors：Fancy Mao，Anita Xiao
 
 Credit by: 
 
@@ -71,11 +68,11 @@ chem.libretext.org
 
 iblingswe.wixsite.com
 
-Ms. Zhang's PPTs
+PPTs from Chemistry Group
 
-**所有内容禁止商用。
+**Proibited for any commercial use
 
-## 友情链接
+## Useful Links
 
 [非常强大的镜像第四代QuestionBank](https://examsnap.io/IBQuestionBankV4/)
 
