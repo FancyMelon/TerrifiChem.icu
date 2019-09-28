@@ -74,11 +74,13 @@ PPTs from Chemistry Group
 
 ## Useful Links
 
-[非常强大的镜像第四代QuestionBank](https://examsnap.io/IBQuestionBankV4/)
+[非常强大的镜像第四代QuestionBank](https://www.ib.redditor.website/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/)
 
-[IB RESOURCES REPOSITORY（民间版本非官方）](https://ibresources.github.io)
+[IB RESOURCES REPOSITORY（民间版本非官方 已down）](https://ibresources.github.io)
 
-[2016之前的FreeExamPaper](https://freeexampapers.com/exam-papers/IB/)
+[各类ib books和paper](https://www.ib.redditor.website/IB%20BOOKS/)
+
+[整套的FreeExamPaper](https://freeexampapers.com/exam-papers/IB/)
 
 [一个国外43分大佬的IBNotes网站ibling](https://iblingswe.wixsite.com/home?tdsourcetag=s_pctim_aiomsg)
 
