@@ -2,6 +2,11 @@
 A study project for QDHS Chemistry students
 
 ## Change Logs
+
+11/30/2019
+
+**Topic 11.3 Spectroscopic identification of organic compounds**
+
 6/12/2019
 
 **Topic 3,4, and 10 QuestionBankVer.3 Practice Qs** 
