@@ -1,5 +1,6 @@
 # TerrifiChem.icu
 A study project for QDHS Chemistry students
+
 Sorry for the temporary shutdown in July and August (We were not in school)
 
 ## Change Logs
