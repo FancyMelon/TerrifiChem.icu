@@ -1,5 +1,6 @@
 # TerrifiChem.icu
 A study project for QDHS Chemistry students
+Sorry for the temporary shutdown in July and August (We were not in school)
 
 ## Change Logs
 
@@ -79,16 +80,15 @@ PPTs from Chemistry Group
 
 ## Useful Links
 
-[非常强大的镜像第四代QuestionBank](https://www.ib.redditor.website/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/)
+[IB QuestionBank before 18.5](https://www.ibdocuments.com/IB%20QUESTIONBANKS/4.%20Fourth%20Edition/)
 
-[IB RESOURCES REPOSITORY（民间版本非官方 已down）](https://ibresources.github.io)
 
-[各类ib books和paper](https://www.ib.redditor.website/IB%20BOOKS/)
+[IB Textbooks](https://www.ibdocuments.com/IB%20BOOKS/)
 
-[整套的FreeExamPaper](https://freeexampapers.com/exam-papers/IB/)
+[Full series of Past Paper](https://www.ibdocuments.com/IB%20PAST%20PAPERS%20-%20SUBJECT/)
 
-[一个国外43分大佬的IBNotes网站ibling](https://iblingswe.wixsite.com/home?tdsourcetag=s_pctim_aiomsg)
+[Ibiling's IB Subject Notes](https://iblingswe.wixsite.com/home?tdsourcetag=s_pctim_aiomsg)
 
-[一个很好的化学自学网站ChemLibreText](https://chem.libretexts.org/)
+[ChemLibreText for Self Study](https://chem.libretexts.org/)
 
 
