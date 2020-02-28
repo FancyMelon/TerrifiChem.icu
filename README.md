@@ -5,6 +5,14 @@ Sorry for the temporary shutdown in July and August (We were not in school)
 
 ## Change Logs
 
+2/28/2020
+
+**Topic D.2 Aspirin**
+
+1/14/2020
+
+**Topic D.1 Pharmaceutical products and drug action**
+
 11/30/2019
 
 **Topic 11.3 Spectroscopic identification of organic compounds**
