@@ -13,6 +13,10 @@ Sorry for the temporary shutdown in July and August (We were not in school)
 
 **Topic D.1 Pharmaceutical products and drug action**
 
+12/16/2019
+
+**Topic 10.2 Functional Group Chemistry**
+
 11/30/2019
 
 **Topic 11.3 Spectroscopic identification of organic compounds**
