@@ -7,7 +7,7 @@ Sorry for the temporary shutdown in July and August (We were not in school)
 
 2/28/2020
 
-**Topic D.2 Aspirin**
+**Topic D.2 Aspirin and Penicillin**
 
 1/14/2020
 
